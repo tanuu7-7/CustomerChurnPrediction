@@ -10,7 +10,12 @@ A machine learning model to predict customer churn based on demographic and serv
 ## How to Run
 1. Clone the repository.
 2. Install dependencies using `pip install -r requirements.txt`.
-3. Open `notebooks/churn_prediction.ipynb` for a full walkthrough of the analysis.
+3. Open `Customer_Churn_Prediction.ipynb` for a full walkthrough of the analysis.
+
+## Customer Churn Prediction Project
+
+You can view the Jupyter Notebook for this project [here](Customer_Churn_Prediction.ipynb).
+
 
 ## Results
 - **Accuracy**: 82.115%
