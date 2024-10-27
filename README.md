@@ -13,8 +13,8 @@ A machine learning model to predict customer churn based on demographic and serv
 3. Open `notebooks/churn_prediction.ipynb` for a full walkthrough of the analysis.
 
 ## Results
-- **Accuracy**: XX%
-- **AUC Score**: XX%
+- **Accuracy**: 82.115%
+- **Cross-validated F1 score**: 0.598
 
 ## License
 This project is licensed under the MIT License.
